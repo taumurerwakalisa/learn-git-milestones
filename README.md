@@ -278,7 +278,7 @@ Row | Step | Description | Completed
 2 | 3-2 | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/commit/87533da80c7be126c57eebbc3bbd94efbef69b7b)
 3 | 3-3 | Link to markdown tables docs | [Markdown tables](https://www.geeksforgeeks.org/html/markdown-tables/)
 4 | 3-4 | What does `log` do? | `git log` is a command that is used to view the commit history of a repository. Using the command will display the date, author and commit message. It can also be customized to view specific commits using flags. For example, `git log -p` or `git log --patch` will display the files that were changed, the changes that were made to the file, and the location of the lines that were removed or added a file. 
-5 | 4-1 | 2nd Favorite emoji |
+5 | 4-1 | 2nd Favorite emoji | 🥳
 6 | 4-2 | Link to `commit #2 from Github Desktop` |
 7 | 5-1 | Full path to your working directory |
 8 | 5-2 | Link to `commit #3 from CLI` |
