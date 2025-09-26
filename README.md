@@ -280,7 +280,7 @@ Row | Step | Description | Completed
 4 | 3-4 | What does `log` do? | `git log` is a command that is used to view the commit history of a repository. Using the command will display the date, author and commit message. It can also be customized to view specific commits using flags. For example, `git log -p` or `git log --patch` will display the files that were changed, the changes that were made to the file, and the location of the lines that were removed or added a file. 
 5 | 4-1 | 2nd Favorite emoji | 🥳
 6 | 4-2 | Link to `commit #2 from Github Desktop` |[commit #2 from Github.com](https://github.com/taumurerwakalisa/learn-git-milestones/commit/54ef810bab358e79b05980ce226f957e93234556)
-7 | 5-1 | Full path to your working directory |
+7 | 5-1 | Full path to your working directory |/c/Users/tumur/Documents/learn-git-milestones
 8 | 5-2 | Link to `commit #3 from CLI` |
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
