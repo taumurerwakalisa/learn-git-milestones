@@ -283,7 +283,7 @@ Row | Step | Description | Completed
 7 | 5-1 | Full path to your working directory |/c/Users/tumur/Documents/learn-git-milestones
 8 | 5-2 | Link to `commit #3 from CLI` | [commit from CLI](https://github.com/taumurerwakalisa/learn-git-milestones/commit/a22c02452d8964927f1f4291de859c4b18329fc4)
 9 | 6-1 | Link to `first-website` github.com repo page | [first-website repo](https://github.com/taumurerwakalisa/first_website)
-10 | 7-1 | Link to `first-website` github.io "project site" |
+10 | 7-1 | Link to `first-website` github.io "project site" | [first-website page](https://taumurerwakalisa.github.io/first_website/)
 
 
 
